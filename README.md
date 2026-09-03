@@ -26,3 +26,9 @@ Computers are electronic devices designed to accept data, process it according t
 | **3rd Generation** | Integrated Circuits | Micro-components on single silicon chips |
 | **4th Generation** | Microprocessors | Personal computers, affordable hardware |
 | **5th Generation** | AI & Parallel Processing | Neural models, automation, quantum computing |
+## Tools Used
+* `Git` - Distributed version control
+* `GitHub` - Cloud repository host
+* `Markdown` - Lightweight documentation formatting
+
+## Project Workflow
